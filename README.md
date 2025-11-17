@@ -31,11 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![Screenshot 2025-05-07 211716](https://github.com/user-attachments/assets/dc7bc2f3-531f-468a-93af-eec63e3c0d70)
+<img width="1036" height="620" alt="image" src="https://github.com/user-attachments/assets/bec8ad91-3634-4967-bc9f-ccde06c64ac5" />
+
 
 ### Output:
-![Screenshot 2025-05-07 211726](https://github.com/user-attachments/assets/73a469b1-202d-4748-b4af-bdd1a5a83e2a)
 
+<img width="1032" height="634" alt="image" src="https://github.com/user-attachments/assets/2b0ffb5a-cba7-4c90-aee3-e10848be2bb8" />
 
 ### Name: Rasindhan R
 ### Register Number: 212224230222
